@@ -391,7 +391,7 @@ UID:枭魔女霍鹭鹭 20230920T203000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230920T203000
 DURATION:PT120M
 SUMMARY:2D 猛兽派对联动Time
-URL:bilibili://live/6542664
+URL:bilibili://live/6542664?
 DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
@@ -407,7 +407,7 @@ UID:枭魔女霍鹭鹭 20230921T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230921T213000
 DURATION:PT120M
 SUMMARY:2D 猫头鹰Time
-URL:bilibili://live/6542664
+URL:bilibili://live/6542664?
 DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
@@ -423,7 +423,7 @@ UID:枭魔女霍鹭鹭 20230923T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230923T213000
 DURATION:PT120M
 SUMMARY:2D 夜行派对八卦夜
-URL:bilibili://live/6542664
+URL:bilibili://live/6542664?
 DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
@@ -439,7 +439,7 @@ UID:枭魔女霍鹭鹭 20230924T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230924T213000
 DURATION:PT120M
 SUMMARY:2D 蜀地之行吐槽大会
-URL:bilibili://live/6542664
+URL:bilibili://live/6542664?
 DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
