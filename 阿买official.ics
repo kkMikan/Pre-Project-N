@@ -18,11 +18,11 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230919T193000
-UID:阿买official 20230919T193000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230919T193000
+DTSTAMP;TZID=Asia/Shanghai:20230925T193000
+UID:阿买official 20230925T193000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230925T193000
 DURATION:PT120M
-SUMMARY:2D 快乐茶馆
+SUMMARY:2D 阿买的歌回茶馆
 URL:bilibili://live/25038149?
 DESCRIPTION:https://live.bilibili.com/25038149?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@阿买official 直播间
@@ -34,11 +34,11 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230920T193000
-UID:阿买official 20230920T193000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230920T193000
+DTSTAMP;TZID=Asia/Shanghai:20230927T193000
+UID:阿买official 20230927T193000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230927T193000
 DURATION:PT120M
-SUMMARY:2D 快乐茶馆
+SUMMARY:2D 阿买的快乐茶馆
 URL:bilibili://live/25038149?
 DESCRIPTION:https://live.bilibili.com/25038149?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@阿买official 直播间
@@ -50,11 +50,11 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230921T193000
-UID:阿买official 20230921T193000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230921T193000
+DTSTAMP;TZID=Asia/Shanghai:20230928T193000
+UID:阿买official 20230928T193000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230928T193000
 DURATION:PT120M
-SUMMARY:2D 快乐茶馆
+SUMMARY:2D 阿买的快乐茶馆
 URL:bilibili://live/25038149?
 DESCRIPTION:https://live.bilibili.com/25038149?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@阿买official 直播间
@@ -66,11 +66,11 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230923T193000
-UID:阿买official 20230923T193000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230923T193000
+DTSTAMP;TZID=Asia/Shanghai:20230930T200000
+UID:阿买official 20230930T200000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230930T200000
 DURATION:PT120M
-SUMMARY:2D 快乐茶馆
+SUMMARY:2D 与阿卡娜，阿司酒馆聊天
 URL:bilibili://live/25038149?
 DESCRIPTION:https://live.bilibili.com/25038149?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@阿买official 直播间
@@ -82,11 +82,11 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230924T193000
-UID:阿买official 20230924T193000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230924T193000
+DTSTAMP;TZID=Asia/Shanghai:20231001T193000
+UID:阿买official 20231001T193000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231001T193000
 DURATION:PT120M
-SUMMARY:2D 快乐茶馆
+SUMMARY:2D 阿买的快乐茶馆
 URL:bilibili://live/25038149?
 DESCRIPTION:https://live.bilibili.com/25038149?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@阿买official 直播间
