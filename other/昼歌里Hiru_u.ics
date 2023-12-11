@@ -18,27 +18,11 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20231211T200000
-UID:昼歌里Hiru_u 20231211T200000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20231211T200000
-DURATION:PT120M
-SUMMARY:2D 初心者杂谈
-URL:bilibili://live/30372481?
-DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
-LOCATION:@昼歌里Hiru_u 直播间
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:直播即将开始
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231212T200000
 UID:昼歌里Hiru_u 20231212T200000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231212T200000
 DURATION:PT120M
-SUMMARY:2D 圆与昼设计回【想法募集中】
+SUMMARY:2D 初心者杂谈
 URL:bilibili://live/30372481?
 DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@昼歌里Hiru_u 直播间
@@ -54,7 +38,7 @@ DTSTAMP;TZID=Asia/Shanghai:20231213T200000
 UID:昼歌里Hiru_u 20231213T200000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231213T200000
 DURATION:PT120M
-SUMMARY:2D 【恐怖游戏】8番出口
+SUMMARY:2D 圆与昼设计回【想法募集中】
 URL:bilibili://live/30372481?
 DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@昼歌里Hiru_u 直播间
@@ -70,7 +54,7 @@ DTSTAMP;TZID=Asia/Shanghai:20231214T200000
 UID:昼歌里Hiru_u 20231214T200000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231214T200000
 DURATION:PT120M
-SUMMARY:2D 【企划】什么？猜猜猜
+SUMMARY:2D 【恐怖游戏】8番出口
 URL:bilibili://live/30372481?
 DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@昼歌里Hiru_u 直播间
@@ -86,7 +70,7 @@ DTSTAMP;TZID=Asia/Shanghai:20231215T200000
 UID:昼歌里Hiru_u 20231215T200000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231215T200000
 DURATION:PT120M
-SUMMARY:2D 初心者杂谈
+SUMMARY:2D 【企划】什么？猜猜猜
 URL:bilibili://live/30372481?
 DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@昼歌里Hiru_u 直播间
@@ -101,6 +85,22 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Asia/Shanghai:20231216T200000
 UID:昼歌里Hiru_u 20231216T200000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20231216T200000
+DURATION:PT120M
+SUMMARY:2D 初心者杂谈
+URL:bilibili://live/30372481?
+DESCRIPTION:https://live.bilibili.com/30372481?\n点击上方链接打开哔哩哔哩，进入直播间
+LOCATION:@昼歌里Hiru_u 直播间
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20231217T200000
+UID:昼歌里Hiru_u 20231217T200000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20231217T200000
 DURATION:PT120M
 SUMMARY:2D 周一加油歌回
 URL:bilibili://live/30372481?
